@@ -22,4 +22,3 @@ I am a Back End Web Enthusiast from Indonesia.
 </p>
 <hr>
 <br>
-![](https://api.visitorbadge.io/api/VisitorHit?user=DandunGP&repo=github-visitors-badge&countColor=%237B1E7A)
