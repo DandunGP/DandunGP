@@ -6,10 +6,9 @@ I am a Back End Web Enthusiast from Indonesia.
 <br>
 
 ### My Github Statistic
-<p align="left">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DandunGP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</p>
-<p align="right"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DandunGP&layout=compact&langs_count=8&theme=algolia"/>
+<p>
+<img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DandunGP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DandunGP&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 <hr>
