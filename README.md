@@ -1,6 +1,4 @@
 <h1 align= "center"><b>Hello!</b></h1>
-<hr>
-
 
 <p align="center">
 I am a Back End Web Enthusiast from Indonesia.
