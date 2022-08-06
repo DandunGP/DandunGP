@@ -12,8 +12,6 @@ I am a Back End Web Enthusiast from Indonesia.
 </p>
 
 <hr>
-
-
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -22,5 +20,6 @@ I am a Back End Web Enthusiast from Indonesia.
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
+<hr>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DandunGP.visitor-badge)
