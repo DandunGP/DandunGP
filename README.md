@@ -11,6 +11,8 @@ I am a Back End Web Enthusiast from Indonesia.
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DandunGP&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
+<hr>
+
 
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
