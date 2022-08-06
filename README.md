@@ -22,6 +22,5 @@ I am a Back End Web Enthusiast from Indonesia.
 </p>
 <hr>
 <br>
-<div align="center">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DandunGP.visitor-badge)
-</div>
+
