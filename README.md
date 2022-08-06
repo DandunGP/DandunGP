@@ -1,17 +1,14 @@
-<h1 align= "center"><b>Hello! :earth_asia:</b></h1>
+<h1 align= "center"><b>Hello!</b></h1>
 
 
 <p align="center">
 I am a Back End Web Enthusiast from Indonesia.
 </p>
-<p align="center">
-I have a dream 🌥️
+
+### My Github Statistic
+<p>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DandunGP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DandunGP&layout=compact&langs_count=8&theme=algolia"/>
 </p>
-
-**+Github Stats :**<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=DandunGP&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DandunGP&theme=radical&title_color=8E2DE2&text_color=fff)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=m2k6artworks.visitor-badge)
