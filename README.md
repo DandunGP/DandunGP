@@ -22,5 +22,4 @@ I am a Back End Web Enthusiast from Indonesia.
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 <hr>
-<br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DandunGP.visitor-badge)
