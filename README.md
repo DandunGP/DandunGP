@@ -5,7 +5,6 @@ I am a Back End Web Enthusiast from Indonesia.
 </p>
 <br>
 
-### My Github Statistic
 <br>
 <p align="center">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DandunGP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
