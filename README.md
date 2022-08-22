@@ -18,6 +18,7 @@ I am a Back End Web Enthusiast from Indonesia.
   <img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-orange?style=for-the-badge&logo=codeigniter&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 <hr>
